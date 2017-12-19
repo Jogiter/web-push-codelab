@@ -7,6 +7,10 @@ new content.
 
 You'll also learn the basics of Service Workers.
 
+## origin
+
++ [向网络应用添加推送通知](https://developers.google.com/web/fundamentals/codelabs/push-notifications/?hl=zh-cn#top_of_page)
+
 ## What you'll learn
 
 * Service Worker basics: installation and event handling
