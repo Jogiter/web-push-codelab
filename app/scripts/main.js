@@ -21,7 +21,8 @@
 
 'use strict';
 
-const applicationServerPublicKey = 'BFPP8V-Oon1fFhSROhg5mV7XxODe_kjM3_IJ795ZZXBW1j4qZiDMG8Fc1Dl_qbCSyTklmzoH0kPxwq2qJo5B3xA';
+// https://web-push-codelab.glitch.me/
+const applicationServerPublicKey = '<Your Public Key>';
 
 const pushButton = document.querySelector('.js-push-btn');
 
